@@ -33,10 +33,11 @@ Setup Instructions:
 Install Python 3.
 Download or clone this repository.
 Open the project folder in VS Code or another Python editor.
+
 Run the Python files using:
 
-python calculator.py
-python todo.py
+python calculator.py, 
+python todo.py, 
 python guessing_game.py
 
 GitHub Repository:
