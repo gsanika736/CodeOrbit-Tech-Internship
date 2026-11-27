@@ -22,12 +22,12 @@ Tracks the number of attempts.
 Allows users to play multiple rounds.
 
 Technologies Used:
-Python 3
-Lists
-Functions
-Loops
-Conditional statements
-Exception handling
+Python 3,
+Lists,
+Functions,
+Loops,
+Conditional statements,
+Exception handling,
 
 Setup Instructions:
 Install Python 3.
